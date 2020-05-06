@@ -1,0 +1,8 @@
+<div [style]="getDivCss()">
+    <div [style]="getInputCss()">
+        <input type="file" id="myfile" name="myfile" class="rm-input" (change)="selectedFile()"/>
+    </div>
+    <div [style]="getUploadCss()">
+        <input type="button" id="upload" value="Upload" (click)="uploadFile()" class="rm-button" />
+    </div>
+</div>
