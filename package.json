@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/rajendra-patel/ng-file-upload.git"
   },
   "keywords": ["upload file","angular"],
   "peerDependencies": {
